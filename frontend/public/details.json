@@ -1,0 +1,503 @@
+{
+    "name": "P!NK Summer Carnival 2024 - Standard Tickets",
+    "type": "event",
+    "id": "G5vGZ9014jNpV",
+    "test": false,
+    "url": "https://www.ticketmaster.com.au/pnk-summer-carnival-2024-standard-tickets-newcastle-13-02-2024/event/13005E42957235B4",
+    "locale": "en-us",
+    "images": [
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_SOURCE",
+            "width": 2426,
+            "height": 1365,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+        },
+        {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+        },
+        {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+        },
+        {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+        }
+    ],
+    "sales": {
+        "public": {
+            "startDateTime": "2023-02-17T01:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2024-02-13T07:00:00Z"
+        },
+        "presales": [
+            {
+                "startDateTime": "2023-02-13T01:00:00Z",
+                "endDateTime": "2023-02-15T01:00:00Z",
+                "name": "Telstra Gold Presale"
+            },
+            {
+                "startDateTime": "2023-02-13T04:00:00Z",
+                "endDateTime": "2023-02-15T01:00:00Z",
+                "name": "Telstra Plus Presale"
+            },
+            {
+                "startDateTime": "2023-02-16T02:00:00Z",
+                "endDateTime": "2023-02-17T00:00:00Z",
+                "name": "Live Nation Presale"
+            },
+            {
+                "startDateTime": "2023-02-16T02:00:00Z",
+                "endDateTime": "2023-02-17T00:00:00Z",
+                "name": "My Ticketmaster Presale"
+            },
+            {
+                "startDateTime": "2023-02-16T02:00:00Z",
+                "endDateTime": "2023-02-17T00:00:00Z",
+                "name": "Venue Presale"
+            }
+        ]
+    },
+    "dates": {
+        "start": {
+            "localDate": "2024-02-13",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": true,
+            "noSpecificTime": false
+        },
+        "timezone": "Australia/Sydney",
+        "status": {
+            "code": "onsale"
+        },
+        "spanMultipleDays": false
+    },
+    "classifications": [
+        {
+            "primary": true,
+            "segment": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "name": "Music"
+            },
+            "genre": {
+                "id": "KnvZfZ7vAeA",
+                "name": "Rock"
+            },
+            "subGenre": {
+                "id": "KZazBEonSMnZfZ7v6F1",
+                "name": "Pop"
+            },
+            "type": {
+                "id": "KZAyXgnZfZ7v7nI",
+                "name": "Undefined"
+            },
+            "subType": {
+                "id": "KZFzBErXgnZfZ7v7lJ",
+                "name": "Undefined"
+            },
+            "family": false
+        }
+    ],
+    "promoter": {
+        "id": "4175",
+        "name": "LIVE NATION AUSTRALIA",
+        "description": "LIVE NATION AUSTRALIA / NTL / AUS"
+    },
+    "promoters": [
+        {
+            "id": "4175",
+            "name": "LIVE NATION AUSTRALIA",
+            "description": "LIVE NATION AUSTRALIA / NTL / AUS"
+        }
+    ],
+    "info": "P!nk concerts are licensed all ages events. Access to General Admission areas on the Arena is recommended for patrons aged 15 years and over. All patrons regardless of age must hold a valid ticket. McDonald Jones Stadium is a licensed venue, children 12 years and under will not be admitted without a parent or guardian (16 years or older), and must remain with them at all times.",
+    "pleaseNote": "Ticket Release Delay: There is a ticket release delay in place until Friday 10th November 2023. Tickets cannot be downloaded or printed until this time. Accessible Seating & Companion Card Holder: Accessible seating can be purchased online. Bookings including a Companion Card ticket can only be collected from the Box Office. The Companion Card must be presented upon collection.",
+    "priceRanges": [
+        {
+            "type": "standard",
+            "currency": "AUD",
+            "min": 101.9,
+            "max": 331.9
+        },
+        {
+            "type": "standard",
+            "currency": "AUD",
+            "min": 0.0,
+            "max": 287.2
+        },
+        {
+            "type": "standard including fees",
+            "currency": "AUD",
+            "min": 0.0,
+            "max": 338.13
+        }
+    ],
+    "seatmap": {
+        "staticUrl": "https://s1.ticketm.net/tmimages/venue/maps/aus/101953s.png"
+    },
+    "accessibility": {
+        "info": "Accessible seating can be purchased online. \r\nBookings including a Companion Card ticket can only be collected from the Box Office.\r\nThe Companion Card must be presented upon collection.\r\n\r\nPlease call Ticketmaster's accessible seating line if you have wheelchair, companion card or special needs booking requirements on:\r\n\r\n1300 446 925 (Mon-Fri, 9am to 5pm AEDT only). \r\n\r\nOr visit the Ticketmaster box office at McDonald Jones Stadium.\r\n\r\n.",
+        "url": "https://mcdonaldjonesstadium.com/page/accessibility",
+        "urlText": "Please click here for more info"
+    },
+    "ticketLimit": {
+        "info": "There is a ticket limit of 10 per transaction for standard tickets, and a limit of 4 for Packages"
+    },
+    "ageRestrictions": {
+        "legalAgeEnforced": false
+    },
+    "ticketing": {
+        "safeTix": {
+            "enabled": false
+        }
+    },
+    "_links": {
+        "self": {
+            "href": "/discovery/v2/events/G5vGZ9014jNpV?locale=en-us"
+        },
+        "attractions": [
+            {
+                "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+            }
+        ],
+        "venues": [
+            {
+                "href": "/discovery/v2/venues/KovZpZAJ7F1A?locale=en-us"
+            }
+        ]
+    },
+    "_embedded": {
+        "venues": [
+            {
+                "name": "McDonald Jones Stadium",
+                "type": "venue",
+                "id": "KovZpZAJ7F1A",
+                "test": false,
+                "url": "https://www.ticketmaster.com.au/mcdonald-jones-stadium-tickets-newcastle/venue/157745",
+                "locale": "en-us",
+                "images": [
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dbimages/21764v.jpg",
+                        "width": 205,
+                        "height": 115,
+                        "fallback": false
+                    }
+                ],
+                "postalCode": "2305",
+                "timezone": "Australia/Sydney",
+                "city": {
+                    "name": "Newcastle"
+                },
+                "state": {
+                    "name": "New South Wales",
+                    "stateCode": "NSW"
+                },
+                "country": {
+                    "name": "Australia",
+                    "countryCode": "AU"
+                },
+                "address": {
+                    "line1": "294 Turton Rd"
+                },
+                "location": {
+                    "longitude": "151.726257",
+                    "latitude": "-32.916649"
+                },
+                "markets": [
+                    {
+                        "name": "All of Australia",
+                        "id": "301"
+                    },
+                    {
+                        "name": "New South Wales/Australian Capital Territory",
+                        "id": "302"
+                    }
+                ],
+                "dmas": [
+                    {
+                        "id": 701
+                    },
+                    {
+                        "id": 702
+                    }
+                ],
+                "boxOfficeInfo": {
+                    "phoneNumberDetail": "02 4064 3080",
+                    "openHoursDetail": "On event days tickets are available from the box offices located at the western, southern and northern entrances. Opening times may vary.",
+                    "acceptedPaymentDetail": "Cash, EFTPOS, MasterCard, Visa, American Express"
+                },
+                "parkingDetail": "Parking on game days is available only for vehicles with a pre-paid parking ticket. Disabled parking areas have been designated in close proximity to each of Hunter Stadiums accessible entries. These are also required to be pre-purchased.",
+                "accessibleSeatingDetail": "Disabled seating is available in both the Eastern and Western Grandstands on the lower and upper levels. Lift access is available to the upper level. The disabled entrance to the Eastern Grandstand is at the southwest corner of the stadium, or the main (Turton Rd) entrance for the Western Grandstand.",
+                "generalInfo": {
+                    "generalRule": "Smoking is not permitted in the grandstand or seated areas. Alcohol, glass, trumpets, flares, whistles, animals, open soft drink containers, fireworks, laser lights, cans and anything that can be used as a weapon.",
+                    "childRule": "Varies from event to event. Please refer to event information for clarification."
+                },
+                "upcomingEvents": {
+                    "_total": 9,
+                    "ticketmaster": 9,
+                    "_filtered": 0
+                },
+                "ada": {
+                    "adaPhones": "Telephone: \n1300 446 925 \nor \nEmail: \nEmail your Accessible Seating request to mail.bookings@ticketmaster.com.au. Please ensure you include the Event Name, Venue, Date and Time along with your contact details. \n",
+                    "adaCustomCopy": "Please call Ticketmaster’s Accessible Seating Line if you have Wheelchair, Companion Card or Special Needs booking requirements. ",
+                    "adaHours": "Service Hours: Monday - Saturday 9am - 8pm; Sunday 9am - 5pm AEST (closed Christmas / Boxing Day)"
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/venues/KovZpZAJ7F1A?locale=en-us"
+                    }
+                }
+            }
+        ],
+        "attractions": [
+            {
+                "name": "P!NK",
+                "type": "attraction",
+                "id": "K8vZ9171Jo7",
+                "test": false,
+                "url": "https://www.ticketmaster.com.au/pnk-tickets/artist/718655",
+                "locale": "en-us",
+                "externalLinks": {
+                    "youtube": [
+                        {
+                            "url": "https://www.youtube.com/user/PinkVideoVault"
+                        },
+                        {
+                            "url": "https://www.youtube.com/user/PinkVEVO"
+                        }
+                    ],
+                    "twitter": [
+                        {
+                            "url": "https://twitter.com/Pink"
+                        }
+                    ],
+                    "itunes": [
+                        {
+                            "url": "https://music.apple.com/us/artist/p-nk/4488522"
+                        }
+                    ],
+                    "lastfm": [
+                        {
+                            "url": "http://www.last.fm/music/P!nk"
+                        }
+                    ],
+                    "wiki": [
+                        {
+                            "url": "https://en.wikipedia.org/wiki/Pink_(singer)"
+                        }
+                    ],
+                    "facebook": [
+                        {
+                            "url": "https://www.facebook.com/pink"
+                        }
+                    ],
+                    "spotify": [
+                        {
+                            "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+                        }
+                    ],
+                    "musicbrainz": [
+                        {
+                            "id": "f4d5cc07-3bc9-4836-9b15-88a08359bc63"
+                        }
+                    ],
+                    "instagram": [
+                        {
+                            "url": "https://www.instagram.com/pink/"
+                        }
+                    ],
+                    "homepage": [
+                        {
+                            "url": "http://www.pinkspage.com/"
+                        }
+                    ]
+                },
+                "aliases": [
+                    "p!nk",
+                    "pink"
+                ],
+                "images": [
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_SOURCE",
+                        "width": 2426,
+                        "height": 1365,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_RETINA_LANDSCAPE_16_9.jpg",
+                        "width": 1136,
+                        "height": 639,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_RETINA_PORTRAIT_16_9.jpg",
+                        "width": 640,
+                        "height": 360,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_TABLET_LANDSCAPE_16_9.jpg",
+                        "width": 1024,
+                        "height": 576,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_TABLET_LANDSCAPE_3_2.jpg",
+                        "width": 1024,
+                        "height": 683,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_EVENT_DETAIL_PAGE_16_9.jpg",
+                        "width": 205,
+                        "height": 115,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_ARTIST_PAGE_3_2.jpg",
+                        "width": 305,
+                        "height": 203,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "4_3",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_CUSTOM.jpg",
+                        "width": 305,
+                        "height": 225,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_RECOMENDATION_16_9.jpg",
+                        "width": 100,
+                        "height": 56,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "16_9",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                        "width": 2048,
+                        "height": 1152,
+                        "fallback": false
+                    },
+                    {
+                        "ratio": "3_2",
+                        "url": "https://s1.ticketm.net/dam/a/232/1ce4b1f4-a4bd-4a64-9fe8-a2352c14e232_RETINA_PORTRAIT_3_2.jpg",
+                        "width": 640,
+                        "height": 427,
+                        "fallback": false
+                    }
+                ],
+                "classifications": [
+                    {
+                        "primary": true,
+                        "segment": {
+                            "id": "KZFzniwnSyZfZ7v7nJ",
+                            "name": "Music"
+                        },
+                        "genre": {
+                            "id": "KnvZfZ7vAeA",
+                            "name": "Rock"
+                        },
+                        "subGenre": {
+                            "id": "KZazBEonSMnZfZ7v6F1",
+                            "name": "Pop"
+                        },
+                        "type": {
+                            "id": "KZAyXgnZfZ7v7la",
+                            "name": "Individual"
+                        },
+                        "subType": {
+                            "id": "KZFzBErXgnZfZ7vAd7",
+                            "name": "Musician"
+                        },
+                        "family": false
+                    }
+                ],
+                "upcomingEvents": {
+                    "_total": 76,
+                    "mfx-nl": 2,
+                    "tmr": 4,
+                    "ticketmaster": 68,
+                    "mfx-be": 1,
+                    "_filtered": 0,
+                    "mfx-pl": 1
+                },
+                "_links": {
+                    "self": {
+                        "href": "/discovery/v2/attractions/K8vZ9171Jo7?locale=en-us"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&family=Raleway&family=Roboto:wght@400;700&display=swap');
+
+body{
+  font-family: 'Roboto','sans-serif';
+}
+
+td,
+th {
+  padding: 10px 20px;
+}
+
+input:focus,
+select:focus,
+button:focus {
+  outline: none;
+}
+
+button:active {
+  scale: 0.9;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #303030;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #585858;
+}
